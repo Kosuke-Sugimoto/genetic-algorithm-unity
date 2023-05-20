@@ -1,5 +1,6 @@
 # Genetic Algorithm Unity
-Training Ball agent by genetic algorithm on Unity. 
+Training Ball agent by genetic algorithm on Unity.  
+___This repository is the revised version of the commit messages from the repository created in 2021.___
 
 ## Usage
 1. Import "genetic-algorithm-unity.unitypackage".
